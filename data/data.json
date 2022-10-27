@@ -1,0 +1,92 @@
+[
+    {
+      "id": 0,
+      "cusip": 2437327,
+      "doc_type": 1,
+      "form_type": "424B2"
+    },
+    {
+      "id": 1,
+      "cusip": 2348381,
+      "doc_type": 2,
+      "form_type": "424B2"
+    },
+    {
+      "id": 2,
+      "cusip": 2947825,
+      "doc_type": 3,
+      "form_type": "FWP"
+    },
+    {
+      "id": 3,
+      "cusip": 3258825,
+      "doc_type": 4,
+      "form_type": "424B2"
+    },
+    {
+      "id": 4,
+      "cusip": 2333583,
+      "doc_type": 5,
+      "form_type": "424B2"
+    },
+    {
+      "id": 5,
+      "cusip": 2234795,
+      "doc_type": 6,
+      "form_type": "424B2"
+    },
+    {
+      "id": 6,
+      "cusip": 2675229,
+      "doc_type": 4,
+      "form_type": "424B2"
+    },
+    {
+      "id": 7,
+      "cusip": 2611870,
+      "doc_type": 5,
+      "form_type": "424B2"
+    },
+    {
+      "id": 8,
+      "cusip": 3353550,
+      "doc_type": 6,
+      "form_type": "424B2"
+    },
+    {
+      "id": 9,
+      "cusip": 2103617,
+      "doc_type": 3,
+      "form_type": "FWP"
+    },
+    {
+      "id": 10,
+      "cusip": 2340782,
+      "doc_type": 1,
+      "form_type": "424B2"
+    },
+    {
+      "id": 11,
+      "cusip": 2810558,
+      "doc_type": 6,
+      "form_type": "424B2"
+    },
+    {
+      "id": 12,
+      "cusip": 2148631,
+      "doc_type": 5,
+      "form_type": "424B2"
+    },
+    {
+      "id": 13,
+      "cusip": 3929243,
+      "doc_type": 2,
+      "form_type": "424B2"
+    },
+    {
+      "id": 14,
+      "cusip": 3002978,
+      "doc_type": 5,
+      "form_type": "424B2"
+    }
+  ]
